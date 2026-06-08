@@ -10,7 +10,7 @@ What this program should do:
 
 secret_number = 7 # Hehehe Ronaldo jersey number
 
-print("Hey there! Can you guess the secret number?")
+print("Hey there! Can you guess the secret number between 1 to 10?")
 
 user_inpit = float(input("Enter your guess: "))
 
